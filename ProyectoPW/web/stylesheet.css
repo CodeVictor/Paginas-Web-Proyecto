@@ -1,0 +1,98 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/11/2015, 11:26:58 PM
+    Author     : V2014
+*/
+body {
+	background-color: #b7d1c4
+}
+#boton2{
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: slateblue;
+	height: 40px;
+	width: 200px;
+	margin: auto;
+	text-align: center;
+}
+h1{
+	color: darkblue;
+	font-family: goudy stout;
+	font-size: 20px;
+}
+#boton1 {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: seagreen;
+	height: 40px;
+	width: 170px;
+	margin: auto;
+	text-align: center;
+}
+#boton3{
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: seashell;
+	height: 45px;
+	width: 200px;
+	margin: auto;
+	text-align: center;
+}
+#bo{
+ 	font-weight: bold;
+	font-size: 18px;
+	color: maroon;
+}
+h2{
+	color: lightyellow;
+}
+p{
+	color: darkslategray;
+	font-family: Showcard Gothic, rockwell;
+}
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+}
+#navbar {
+    margin:auto;
+height: 50px;
+	/*¡Agrega tu CSS aquí!
+	
+	left:50%;
+	margin-left:-254px;*/
+}
+#Ex{
+	color: mediumblue;
+	font-size:30px;
+}
+#po{
+	color: lime;
+	font-size:30px;
+}
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
+}
+
+li {
+	/*¡Agrega tu CSS aquí!*/
+	display: inline;
+	border: 5px solid #000000;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	border-radius: 5px 5px;
+	background-color: #cc0323
+}
+
